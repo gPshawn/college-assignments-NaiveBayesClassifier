@@ -5,4 +5,4 @@ my onw using the classical Iris data set in order to get a strong understading o
 to create an algorithm that is able to separate the class SETOSA from the other two ones. For a previous 
 understanding of the Naive Bayes Classifier, check this following lecture here: 
 http://software.ucv.ro/~cmihaescu/ro/teaching/AIR/docs/Lab4-NaiveBayes.pdf
-p.s: This is NOT a general implementation of the Naive Bayes Classifier
+p.s: This is NOT a general implementation of the Naive Bayes Classifier.
