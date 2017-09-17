@@ -16,7 +16,7 @@
 # Loading the Iris data set.
 data(iris)
 
-# Separeting the two classes we're gonna working on
+# Separating the two classes we're gonna working on
 setosa <- iris[which(iris$Species=="setosa"),1:4]
 others <- iris[which(iris$Species!="setosa"),1:4]
 setosa$label <-1
@@ -180,7 +180,7 @@ sd(acc)
 
 # average hits
 mean(hits)
-# hits stanrd deviation
+# hits standard deviation
 sd(hits)
   
   
